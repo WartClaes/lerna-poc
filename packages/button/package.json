@@ -1,6 +1,6 @@
 {
   "name": "tt-button",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "button component",
   "main": "index.js",
   "scripts": {
