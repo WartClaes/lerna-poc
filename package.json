@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish --conventional-commits --skip-npm"
+  },
+  "devDependencies": {
+    "lerna": "^2.0.0-rc.1"
+  }
+}
