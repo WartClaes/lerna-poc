@@ -1,7 +1,7 @@
 # Lerna
 
 ## What about it?
-Lerna is a tool for managing JavaScript projects with multiple packages in one giant mono-repo.
+[Lerna](https://github.com/lerna/lerna/) is a tool for managing JavaScript projects with multiple packages in one giant mono-repo.
 
 ## The setup
 
