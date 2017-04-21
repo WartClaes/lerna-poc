@@ -1,6 +1,6 @@
 {
   "name": "tt-formatter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple formatter",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tt-lowercase": "^0.0.1",
-    "tt-uppercase": "^0.0.1"
+    "tt-lowercase": "^0.1.0",
+    "tt-uppercase": "^0.1.0"
   }
 }
