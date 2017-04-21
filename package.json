@@ -1,4 +1,5 @@
 {
+  "name": "tt-utils",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "publish": "lerna publish --skip-npm"
